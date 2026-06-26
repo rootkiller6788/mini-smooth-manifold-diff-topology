@@ -97,7 +97,6 @@ But there are manifolds with χ=0 and nontrivial tangent bundles
 (e.g., T² × S² has χ=0 but TM is nontrivial).
 -/
 
-theorem bott_vanishing_counterexample : True := by trivial
 
 theorem counterexamples_extra_1 (M : SmoothManifold) : True := by trivial
 theorem counterexamples_extra_2 (M : SmoothManifold) : True := by trivial
