@@ -1,0 +1,2 @@
+import MiniSardMorse.Properties.ProofTechniques
+import MiniSardMorse.Properties.Invariants

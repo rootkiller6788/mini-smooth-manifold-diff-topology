@@ -1,0 +1,3 @@
+import MiniTangentBundles.Properties.ClassificationData
+import MiniTangentBundles.Properties.Invariants
+import MiniTangentBundles.Properties.Preservation

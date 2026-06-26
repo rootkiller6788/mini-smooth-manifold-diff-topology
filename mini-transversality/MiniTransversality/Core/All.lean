@@ -1,0 +1,5 @@
+import MiniTransversality.Core.Basic
+import MiniTransversality.Core.Objects
+import MiniTransversality.Core.JetSpaces
+import MiniTransversality.Core.Computational
+import MiniTransversality.Core.ProofTechniques

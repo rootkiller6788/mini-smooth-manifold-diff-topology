@@ -1,0 +1,4 @@
+import MiniSmoothManifolds.Constructions.Products
+import MiniSmoothManifolds.Constructions.Subobjects
+import MiniSmoothManifolds.Constructions.Quotients
+import MiniSmoothManifolds.Constructions.Universal

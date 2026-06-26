@@ -1,0 +1,3 @@
+import MiniSmoothManifolds.Advanced.InfiniteDimensional
+import MiniSmoothManifolds.Advanced.BanachManifolds
+import MiniSmoothManifolds.Advanced.Transversality

@@ -1,0 +1,3 @@
+import MiniDifferentialForms.Applications.GaugeTheory
+import MiniDifferentialForms.Applications.MaxwellEquations
+import MiniDifferentialForms.Applications.SymplecticGeometry

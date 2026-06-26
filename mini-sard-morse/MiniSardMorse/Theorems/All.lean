@@ -1,0 +1,8 @@
+import MiniSardMorse.Theorems.Sard
+import MiniSardMorse.Theorems.MorseLemma
+import MiniSardMorse.Theorems.MorseInequalities
+import MiniSardMorse.Theorems.Basic
+import MiniSardMorse.Theorems.Classification
+import MiniSardMorse.Theorems.Main
+import MiniSardMorse.Theorems.UniversalProperties
+import MiniSardMorse.Theorems.AdvancedComputations

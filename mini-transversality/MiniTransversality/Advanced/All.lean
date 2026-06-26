@@ -1,0 +1,5 @@
+import MiniTransversality.Advanced.StratifiedTransversality
+import MiniTransversality.Advanced.EquivariantTransversality
+import MiniTransversality.Advanced.InfiniteDimTransversality
+import MiniTransversality.Advanced.DerivedTransversality
+

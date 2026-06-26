@@ -1,0 +1,5 @@
+import MiniTransversality.Theorems.Basic
+import MiniTransversality.Theorems.Main
+import MiniTransversality.Theorems.Classification
+import MiniTransversality.Theorems.AdvancedComputations
+import MiniTransversality.Theorems.Perturbation

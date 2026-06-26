@@ -1,0 +1,4 @@
+import MiniSmoothManifolds.Theorems.Basic
+import MiniSmoothManifolds.Theorems.Main
+import MiniSmoothManifolds.Theorems.Classification
+import MiniSmoothManifolds.Theorems.UniversalProperties

@@ -1,0 +1,3 @@
+import MiniSmoothManifolds.Morphisms.Hom
+import MiniSmoothManifolds.Morphisms.Iso
+import MiniSmoothManifolds.Morphisms.Equiv

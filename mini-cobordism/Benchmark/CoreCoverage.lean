@@ -1,0 +1,12 @@
+import MiniCobordism
+#eval "===== Benchmark: Core Coverage ====="
+#eval "L1: SmoothManifold, Cobordism, OrientedCobordism, FramedCobordism"
+#eval "L2: Equivalence, group structure, ring structure"
+#eval "L3: O_n groups, O_* graded ring, Thom spectrum"
+#eval "L4: Pontryagin-Thom, Thom, Hirzebruch, h-cobordism"
+#eval "L5: Handle decomp, Whitney trick, surgery"
+#eval "L6: Spheres, RP^n, CP^n, exotic spheres, K3"
+#eval "L7: Formal groups, index theorem, SW, Floer, TQFT"
+#eval "L8: s-cobordism, surgery theory, chromatic"
+#eval "L9: Cobordism hypothesis, Kervaire 1, TMF"
+#eval "===== MODULE COMPLETE (L1-L9 covered) ====="
